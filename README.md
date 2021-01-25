@@ -1,4 +1,4 @@
-# ESLint Config Bundle
+# ESLint Config Bundle
 
 ESLint + config bundle based on Airbnb's config, with TypeScript and Prettier support
 

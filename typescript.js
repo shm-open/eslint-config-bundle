@@ -1,17 +1,16 @@
-const sharedRules = require('./shared-rules');
-
 module.exports = {
     extends: [
         'airbnb-base',
         'plugin:@typescript-eslint/recommended',
         'plugin:prettier/recommended',
         'prettier/@typescript-eslint',
+        require.resolve('./rules'),
     ],
     plugins: ['deprecation'],
     // parser @typescript-eslint/parser already set by extends from plugin:@typescript-eslint/recommended
     // however, it needs parserOptions `project: './tsconfig.json'` to work
     parserOptions: { sourceType: 'module', project: './tsconfig.json' },
-    rules: Object.assign({}, sharedRules.base, {
+    rules: {
         // additional ts rules
 
         // deprecation
@@ -81,7 +80,7 @@ module.exports = {
 
         // TypeScript compilation already ensures that named imports exist in the referenced module
         'import/named': 'off',
-    }),
+    },
 
     settings: {
         // Append 'ts' extensions to Airbnb 'import/resolver' setting

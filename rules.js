@@ -1,7 +1,6 @@
-// shared rules
 module.exports = {
     // base rules
-    base: {
+    rules: {
         // class member, allow single line member don't have empty line between each other
         'lines-between-class-members': ['error', 'always', { exceptAfterSingleLine: true }],
 
@@ -45,31 +44,5 @@ module.exports = {
 
         // ignore use this check for class methods
         'class-methods-use-this': 'off',
-    },
-
-    // react rules
-    react: {
-        // jsx may reference to styles which defined later (react-native pattern)
-        'no-use-before-define': ['error', { variables: false }],
-
-        // allow non-dom to use autoFocus prop
-        'jsx-a11y/no-autofocus': ['error', { ignoreNonDOM: true }],
-
-        // display-name Prevent missing displayName in a React component definition
-        'react/display-name': ['warn', { ignoreTranspilerName: true }],
-
-        // react-hooks
-        'react-hooks/rules-of-hooks': 'error',
-        'react-hooks/exhaustive-deps': 'error',
-    },
-
-    // react typescript file rules
-    react_ts: {
-        // prop-types checked by ts in compile time
-        'react/prop-types': 'off',
-
-        // use ts version no-use-before-define
-        'no-use-before-define': 'off',
-        '@typescript-eslint/no-use-before-define': ['error', { variables: false }],
     },
 };

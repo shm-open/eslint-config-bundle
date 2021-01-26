@@ -1,5 +1,4 @@
-const typescriptEslint = require('./lib/typescript');
-const sharedRules = require('./lib/shared-rules');
+const typescriptEslint = require('./typescript');
 
 module.exports = {
     root: true,
@@ -9,8 +8,7 @@ module.exports = {
     env: {
         browser: true,
     },
-    extends: ['airbnb-base', 'plugin:prettier/recommended'],
-    rules: Object.assign({}, sharedRules.base, {}),
+    extends: ['airbnb-base', 'plugin:prettier/recommended', require.resolve('./rules')],
 
     settings: Object.assign({}, typescriptEslint.settings, {
         // additional settings
@@ -19,7 +17,7 @@ module.exports = {
     overrides: [
         {
             files: ['**/*.ts', '**/*.tsx'],
-            extends: [require.resolve('./lib/typescript')],
+            extends: [require.resolve('./typescript')],
         },
     ],
 };

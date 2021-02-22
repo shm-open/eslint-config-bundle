@@ -3,7 +3,7 @@ module.exports = {
         'plugin:react/recommended',
         'plugin:jsx-a11y/recommended',
         require.resolve('./base'),
-        'prettier/react',
+        'prettier',
     ],
     parser: 'babel-eslint',
     plugins: ['react-hooks'],
@@ -30,7 +30,7 @@ module.exports = {
     overrides: [
         {
             files: ['**/*.ts', '**/*.tsx'],
-            extends: [require.resolve('./typescript'), 'prettier/react'],
+            extends: [require.resolve('./typescript'), 'prettier'],
             rules: {
                 // prop-types checked by tsc in compile time
                 'react/prop-types': 'off',

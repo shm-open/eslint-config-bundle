@@ -3,7 +3,7 @@ module.exports = {
         'airbnb-base',
         'plugin:@typescript-eslint/recommended',
         'plugin:prettier/recommended',
-        'prettier/@typescript-eslint',
+        'prettier',
         require.resolve('./rules'),
     ],
     plugins: ['deprecation'],
@@ -58,10 +58,6 @@ module.exports = {
 
         // array type
         '@typescript-eslint/array-type': ['error'],
-
-        // semi
-        semi: 'off',
-        '@typescript-eslint/semi': ['error'],
 
         // no-unused-vars
         '@typescript-eslint/no-unused-vars': ['error', { ignoreRestSiblings: true }],

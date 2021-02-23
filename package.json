@@ -47,7 +47,7 @@
     "eslint-plugin-react": "7.22.0",
     "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-react-native": "3.10.0",
-    "eslint-plugin-taro": "3.0.27",
+    "eslint-plugin-taro": "3.0.28",
     "prettier": "2.2.1"
   }
 }

@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/shm-open/eslint-config-bundle/compare/v1.1.2...v1.1.3) (2021-03-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v7.21.0 ([434bbe2](https://github.com/shm-open/eslint-config-bundle/commit/434bbe24aef6870dccbb326a9bea2e63ec30b754))
+* **deps:** update dependency eslint-config-prettier to v8.1.0 ([140e918](https://github.com/shm-open/eslint-config-bundle/commit/140e9180fdc5e04c942b397ba610329320232180))
+* **deps:** update dependency eslint-plugin-taro to v3.0.28 ([a432ac5](https://github.com/shm-open/eslint-config-bundle/commit/a432ac5a2279bf59ea31446da0fee108293eaf55))
+* **deps:** update dependency eslint-plugin-taro to v3.1.1 ([b04a670](https://github.com/shm-open/eslint-config-bundle/commit/b04a6702f554a768d7e6c83ca110c79c8f357d94))
+* **deps:** update typescript-eslint monorepo to v4.15.2 ([32602fc](https://github.com/shm-open/eslint-config-bundle/commit/32602fc4d393e6c3763de78ffb9792f17c04e37c))
+
 ### [1.1.2](https://github.com/shm-open/eslint-config-bundle/compare/v1.1.1...v1.1.2) (2021-02-22)
 
 

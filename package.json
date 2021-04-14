@@ -10,7 +10,7 @@
   "scripts": {
     "release": "standard-version && git push --follow-tags origin master && npm publish",
     "build": "echo \"no build needed\"",
-    "test": "echo \"no test specified\""
+    "test": "eslint test | node test/check-test-result.js"
   },
   "repository": {
     "type": "git",

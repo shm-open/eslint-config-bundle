@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.6](https://github.com/shm-open/eslint-config-bundle/compare/v1.1.5...v1.1.6) (2021-04-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v7.24.0 ([d7b36f6](https://github.com/shm-open/eslint-config-bundle/commit/d7b36f66e01928ba29674709299f13c096f95922))
+* **deps:** update dependency eslint-config-prettier to v8.2.0 ([015bd92](https://github.com/shm-open/eslint-config-bundle/commit/015bd928738b1c04f7bf162acbbe06993aec6824))
+* **deps:** update dependency eslint-plugin-react to v7.23.0 ([eb73a73](https://github.com/shm-open/eslint-config-bundle/commit/eb73a732fb5827d0ddab82efd0ac81b489f50030))
+* **deps:** update dependency eslint-plugin-react to v7.23.2 ([e22e042](https://github.com/shm-open/eslint-config-bundle/commit/e22e0427c6ec1592ae2fef93ccc59acf2ddb9d9a))
+* **deps:** update dependency eslint-plugin-taro to v3.2.1 ([c05c843](https://github.com/shm-open/eslint-config-bundle/commit/c05c843a6d9543ceeba670242f5059e433451d00))
+* **deps:** update typescript-eslint monorepo to v4.22.0 ([d727e35](https://github.com/shm-open/eslint-config-bundle/commit/d727e35bfea7a90d63c72aa934a782c6e7a4ac48))
+
 ### [1.1.5](https://github.com/shm-open/eslint-config-bundle/compare/v1.1.4...v1.1.5) (2021-03-23)
 
 

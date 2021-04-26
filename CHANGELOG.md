@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.7](https://github.com/shm-open/eslint-config-bundle/compare/v1.1.6...v1.1.7) (2021-04-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v7.25.0 ([0584b3d](https://github.com/shm-open/eslint-config-bundle/commit/0584b3d8c9ad5f150e37e85dfe03de90aa793491))
+* **deps:** update dependency eslint-config-prettier to v8.3.0 ([8ad3404](https://github.com/shm-open/eslint-config-bundle/commit/8ad3404fc8c507a82eac998d8fe4110da6d67420))
+* **deps:** update dependency eslint-plugin-prettier to v3.4.0 ([985eb3d](https://github.com/shm-open/eslint-config-bundle/commit/985eb3ddd7ebc0fc102c1d27d49ae043445dad7a))
+* **deps:** update dependency eslint-plugin-taro to v3.2.2 ([bfdaab9](https://github.com/shm-open/eslint-config-bundle/commit/bfdaab9f5b0ddfa8b9ed7df9d9725aa0300a1ae4))
+* **deps:** update dependency eslint-plugin-taro to v3.2.4 ([12ed706](https://github.com/shm-open/eslint-config-bundle/commit/12ed706c905e473906e780054598f1561450548b))
+* **deps:** update dependency eslint-plugin-taro to v3.2.5 ([1f298df](https://github.com/shm-open/eslint-config-bundle/commit/1f298dfad439e4ef11a7045b88d682c0b0297876))
+
 ### [1.1.6](https://github.com/shm-open/eslint-config-bundle/compare/v1.1.5...v1.1.6) (2021-04-14)
 
 

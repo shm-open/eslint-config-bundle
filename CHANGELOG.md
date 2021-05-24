@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.10](https://github.com/shm-open/eslint-config-bundle/compare/v1.1.9...v1.1.10) (2021-05-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v7.27.0 ([3a83fe7](https://github.com/shm-open/eslint-config-bundle/commit/3a83fe74845eb4a16cb45c1da629ea7b7d184184))
+* **deps:** update dependency eslint-plugin-import to v2.23.0 ([2ff87f3](https://github.com/shm-open/eslint-config-bundle/commit/2ff87f3e88c7122a268079236914138646c01945))
+* **deps:** update dependency eslint-plugin-import to v2.23.1 ([87f1fcf](https://github.com/shm-open/eslint-config-bundle/commit/87f1fcfd38701095d96c648818faf0f43c201595))
+* **deps:** update dependency eslint-plugin-import to v2.23.2 ([6fac5cf](https://github.com/shm-open/eslint-config-bundle/commit/6fac5cf7cff537a696f3adb3cf4e810730b7b563))
+* **deps:** update dependency eslint-plugin-import to v2.23.3 ([0b803e0](https://github.com/shm-open/eslint-config-bundle/commit/0b803e09a6beef9440c1a98b42f5f202f09c45b0))
+* **deps:** update dependency eslint-plugin-react-native to v3.11.0 ([d102887](https://github.com/shm-open/eslint-config-bundle/commit/d10288739c4132092b13e7eea1c39f3f56c0312b))
+* **deps:** update dependency eslint-plugin-taro to v3.2.9 ([68546b9](https://github.com/shm-open/eslint-config-bundle/commit/68546b9091ecafc50b3b08704ea321617e1598ff))
+* **deps:** update typescript-eslint monorepo to v4.24.0 ([273543f](https://github.com/shm-open/eslint-config-bundle/commit/273543f59c379aafe80fcbbc40954320f95c0247))
+
 ### [1.1.9](https://github.com/shm-open/eslint-config-bundle/compare/v1.1.8...v1.1.9) (2021-05-11)
 
 

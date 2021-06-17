@@ -30,7 +30,7 @@
     "react": "17.0.2",
     "react-native": "0.64.2",
     "standard-version": "9.3.0",
-    "typescript": "4.3.3"
+    "typescript": "4.3.4"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "4.27.0",

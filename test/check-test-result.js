@@ -1,5 +1,5 @@
-var expectedErrors = 21;
-var expectedWarnings = 7;
+var expectedErrors = 22;
+var expectedWarnings = 6;
 
 // read from stdin
 process.stdin.resume();
@@ -21,5 +21,6 @@ process.stdin.on('end', function () {
         console.log('actual ' + result[0]);
         process.exit(1);
     }
+    console.log('PASS');
     process.exit(0);
 });

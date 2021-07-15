@@ -28,7 +28,7 @@ module.exports = {
 
         // prefer named export
         'import/prefer-default-export': 'off',
-        'import/no-default-export': 'warn',
+        'import/no-default-export': 'error',
 
         // unused exports
         'import/no-unused-modules': [

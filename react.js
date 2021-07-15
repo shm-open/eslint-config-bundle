@@ -20,7 +20,8 @@ module.exports = {
         'jsx-a11y/no-autofocus': ['error', { ignoreNonDOM: true }],
 
         // display-name Prevent missing displayName in a React component definition
-        'react/display-name': ['warn', { ignoreTranspilerName: true }],
+        // enforce displayName in React components makes debugging Production issues easier
+        'react/display-name': ['error', { ignoreTranspilerName: true }],
 
         // react-hooks
         'react-hooks/rules-of-hooks': 'error',

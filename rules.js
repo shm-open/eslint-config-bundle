@@ -27,6 +27,10 @@ module.exports = {
         ],
 
         // prefer named export
+        // why?:
+        // named export is more friendly when you want to search for
+        // all usages of a class or a function, it works better when
+        // we want to refactor code with a large project
         'import/prefer-default-export': 'off',
         'import/no-default-export': 'error',
 

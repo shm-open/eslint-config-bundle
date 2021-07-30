@@ -36,7 +36,7 @@ module.exports = {
 
         // unused exports
         'import/no-unused-modules': [
-            'warn',
+            'error',
             {
                 unusedExports: true,
             },

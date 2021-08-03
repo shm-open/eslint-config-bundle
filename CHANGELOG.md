@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/shm-open/eslint-config-bundle/compare/v1.2.1...v1.3.0) (2021-08-03)
+
+
+### Features
+
+* turn import/no-unused-modules to error ([c562ff9](https://github.com/shm-open/eslint-config-bundle/commit/c562ff9e206788bce2de9ebdbbd185f3f222f4e9))
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v7.32.0 ([b524b23](https://github.com/shm-open/eslint-config-bundle/commit/b524b23152ac59b538e386626045f0bac8d92a6d))
+* **deps:** update typescript-eslint monorepo to v4.29.0 ([995ae49](https://github.com/shm-open/eslint-config-bundle/commit/995ae49f000fd9ed988f72a00bcfec6668e78664))
+
 ### [1.2.1](https://github.com/shm-open/eslint-config-bundle/compare/v1.2.0...v1.2.1) (2021-07-27)
 
 

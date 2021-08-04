@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/shm-open/eslint-config-bundle/compare/v1.3.0...v1.3.1) (2021-08-04)
+
+
+### Bug Fixes
+
+* allow __html being used as object key ([3e1a2f1](https://github.com/shm-open/eslint-config-bundle/commit/3e1a2f1f9ae7d3d582cba66e11d501e889409404))
+* **deps:** update dependency eslint-plugin-taro to v3.3.2 ([c313672](https://github.com/shm-open/eslint-config-bundle/commit/c313672e0e8ea11b6c5fbd14373879d829947416))
+
 ## [1.3.0](https://github.com/shm-open/eslint-config-bundle/compare/v1.2.1...v1.3.0) (2021-08-03)
 
 

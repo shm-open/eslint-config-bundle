@@ -42,6 +42,16 @@ module.exports = {
             },
         ],
 
+        // sort imports in alphabetize
+        'import/order': [
+            'error',
+            {
+                alphabetize: {
+                    order: 'asc',
+                },
+            },
+        ],
+
         // max lines allowed
         'max-lines': ['warn', { max: 500, skipBlankLines: true, skipComments: true }],
         'max-lines-per-function': ['warn', { max: 80, skipBlankLines: true, skipComments: true }],

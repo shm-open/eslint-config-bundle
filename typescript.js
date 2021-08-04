@@ -24,8 +24,9 @@ module.exports = {
             {
                 selector: 'default',
                 format: ['camelCase', 'PascalCase', 'UPPER_CASE', 'snake_case'],
-                leadingUnderscore: 'allow',
+                leadingUnderscore: 'allowSingleOrDouble',
                 custom: {
+                    // Id should be ID or id
                     regex: 'Id([A-Z0-9]|\\b)',
                     match: false,
                 },
@@ -53,6 +54,11 @@ module.exports = {
             {
                 selector: 'objectLiteralProperty',
                 format: ['camelCase', 'snake_case', 'UPPER_CASE'],
+                // __html used in React is a sepcial case
+                filter: {
+                    regex: '__html',
+                    match: false,
+                },
             },
         ],
 

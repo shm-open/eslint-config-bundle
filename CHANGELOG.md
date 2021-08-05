@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/shm-open/eslint-config-bundle/compare/v1.3.1...v1.4.0) (2021-08-05)
+
+
+### Features
+
+* turn on import/order, sort imports ([13fbe3a](https://github.com/shm-open/eslint-config-bundle/commit/13fbe3ad95c87c27034e2516146fb5a40054b1e0))
+
 ### [1.3.1](https://github.com/shm-open/eslint-config-bundle/compare/v1.3.0...v1.3.1) (2021-08-04)
 
 

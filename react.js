@@ -27,6 +27,9 @@ module.exports = {
         // prefer syntax (shorthand) mode for fragments
         'react/jsx-fragments': ['error', 'syntax'],
 
+        // enforce self closed tags
+        'react/self-closing-comp': 'error',
+
         // react-hooks
         'react-hooks/rules-of-hooks': 'error',
         'react-hooks/exhaustive-deps': 'error',

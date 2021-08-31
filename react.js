@@ -24,6 +24,9 @@ module.exports = {
         // enforce displayName in React components makes debugging Production issues easier
         'react/display-name': ['error', { ignoreTranspilerName: true }],
 
+        // prefer syntax (shorthand) mode for fragments
+        'react/jsx-fragments': ['error', 'syntax'],
+
         // react-hooks
         'react-hooks/rules-of-hooks': 'error',
         'react-hooks/exhaustive-deps': 'error',

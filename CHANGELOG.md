@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/shm-open/eslint-config-bundle/compare/v1.5.0...v1.6.0) (2021-09-06)
+
+
+### Features
+
+* add react/jsx-fragments to prefer syntax mode for fragments ([1288530](https://github.com/shm-open/eslint-config-bundle/commit/12885301a33734de74dccdf6d0fb87060d47b1bf))
+* turn on react/self-closing-comp ([7fe6f96](https://github.com/shm-open/eslint-config-bundle/commit/7fe6f9641309572c68432ed597d72b9139d52d03))
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-taro to v3.3.6 ([ab0d88e](https://github.com/shm-open/eslint-config-bundle/commit/ab0d88edc32f7ed79e008fca22c3256c7e4c8b18))
+
 ## [1.5.0](https://github.com/shm-open/eslint-config-bundle/compare/v1.4.0...v1.5.0) (2021-08-31)
 
 

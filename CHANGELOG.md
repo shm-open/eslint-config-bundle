@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.5](https://github.com/shm-open/eslint-config-bundle/compare/v1.6.4...v1.6.5) (2021-10-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.25.2 ([02f9b9e](https://github.com/shm-open/eslint-config-bundle/commit/02f9b9efc475906d0c3b6ea8af83bb75892b6db0))
+* **deps:** update dependency eslint-plugin-taro to v3.3.10 ([1297d66](https://github.com/shm-open/eslint-config-bundle/commit/1297d666828879582d14ae4f12ab734f2036f0d4))
+
 ### [1.6.4](https://github.com/shm-open/eslint-config-bundle/compare/v1.6.3...v1.6.4) (2021-10-12)
 
 

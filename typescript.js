@@ -13,7 +13,10 @@ module.exports = {
     rules: {
         // additional ts rules
 
-        // deprecation
+        /**
+         * deprecation not maintained for a long time, use @delagen/eslint-plugin-deprecation
+         * https://github.com/gund/eslint-plugin-deprecation/pull/38
+         */
         '@delagen/deprecation/deprecation': 'warn',
 
         // switch to typescript version rules

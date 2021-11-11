@@ -10,7 +10,7 @@ export interface MyInterface {
     // prettier/prettier
     member: string,
 
-    // ban-types ban-ts-comment
+    // ban-ts-comment
     // @ts-ignore
     bandType: object;
 }
@@ -18,7 +18,7 @@ export interface MyInterface {
 /**
  * @deprecated will be removed soon
  */
-// explicit-module-boundary-types no-unused-var no-explict-any
+// no-unused-var no-explict-any
 export const MyFunction = (a: any) => {
     return 1;
 };

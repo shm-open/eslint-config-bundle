@@ -1,5 +1,5 @@
-var expectedErrors = 25;
-var expectedWarnings = 4;
+var expectedErrors = 24;
+var expectedWarnings = 3;
 
 // read from stdin
 process.stdin.resume();

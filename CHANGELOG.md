@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/shm-open/eslint-config-bundle/compare/v1.6.5...v1.7.0) (2021-11-11)
+
+
+### Features
+
+* update eslint to v8, typescript-eslint to v5, use @delagen/eslint-plugin-deprecation and update test ([a0fd128](https://github.com/shm-open/eslint-config-bundle/commit/a0fd128274f58777c722b8b55e3e2fc452af04c3))
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-airbnb-base to v15 ([709b33c](https://github.com/shm-open/eslint-config-bundle/commit/709b33c4c53aae76bb50216139ca8b2bcae2f705))
+* **deps:** update dependency eslint-plugin-import to v2.25.3 ([86278f0](https://github.com/shm-open/eslint-config-bundle/commit/86278f07e837735dc7cad6615f2b4678b4e6b6b5))
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.5.1 ([a25377d](https://github.com/shm-open/eslint-config-bundle/commit/a25377d169f3774b8c03d56e13449938e959318b))
+* **deps:** update dependency eslint-plugin-react to v7.27.0 ([3415bc8](https://github.com/shm-open/eslint-config-bundle/commit/3415bc8937c44777c20bcac82ce28279850c1ed7))
+* **deps:** update dependency eslint-plugin-react-hooks to v4.3.0 ([a0e3456](https://github.com/shm-open/eslint-config-bundle/commit/a0e34563a941938d125c47ac97d951703e1cf6ee))
+* **deps:** update dependency eslint-plugin-taro to v3.3.11 ([f5d0b62](https://github.com/shm-open/eslint-config-bundle/commit/f5d0b62bc31fc5e74d3cd8019921acfa1b68f856))
+* **deps:** update dependency eslint-plugin-taro to v3.3.12 ([8f11d64](https://github.com/shm-open/eslint-config-bundle/commit/8f11d64ec060ce24f04d330b2c0ae7ae9a3f6a66))
+
 ### [1.6.5](https://github.com/shm-open/eslint-config-bundle/compare/v1.6.4...v1.6.5) (2021-10-21)
 
 

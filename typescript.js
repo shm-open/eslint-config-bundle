@@ -6,15 +6,18 @@ module.exports = {
         'prettier',
         require.resolve('./rules'),
     ],
-    plugins: ['deprecation'],
+    plugins: ['@delagen/deprecation'],
     // parser @typescript-eslint/parser already set by extends from plugin:@typescript-eslint/recommended
     // however, it needs parserOptions `project: './tsconfig.json'` to work
     parserOptions: { sourceType: 'module', project: './tsconfig.json' },
     rules: {
         // additional ts rules
 
-        // deprecation
-        'deprecation/deprecation': 'warn',
+        /**
+         * deprecation not maintained for a long time, use @delagen/eslint-plugin-deprecation
+         * https://github.com/gund/eslint-plugin-deprecation/pull/38
+         */
+        '@delagen/deprecation/deprecation': 'warn',
 
         // switch to typescript version rules
         // camelcase

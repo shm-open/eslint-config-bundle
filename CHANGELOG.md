@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.7.3](https://github.com/shm-open/eslint-config-bundle/compare/v1.7.2...v1.7.3) (2021-12-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v8.4.0 ([4aed980](https://github.com/shm-open/eslint-config-bundle/commit/4aed980c871521860ea9191ec6c7874e2105b2bc))
+* **deps:** update dependency eslint-plugin-taro to v3.3.16 ([7e1a8ed](https://github.com/shm-open/eslint-config-bundle/commit/7e1a8ed8f5d7d74dbd04e0a21b89633ff0f79137))
+* **deps:** update dependency prettier to v2.5.1 ([a78bf0d](https://github.com/shm-open/eslint-config-bundle/commit/a78bf0de8be01e107ec601084e5eb593a59e9903))
+
 ### [1.7.2](https://github.com/shm-open/eslint-config-bundle/compare/v1.7.1...v1.7.2) (2021-11-30)
 
 

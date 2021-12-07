@@ -54,7 +54,7 @@ module.exports = {
             },
             {
                 selector: 'objectLiteralProperty',
-                format: ['camelCase', 'snake_case', 'UPPER_CASE'],
+                format: ['camelCase', 'snake_case', 'UPPER_CASE', 'PascalCase'],
                 // __html used in React is a sepcial case
                 filter: {
                     regex: '__html',

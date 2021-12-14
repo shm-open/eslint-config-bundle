@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.7.4](https://github.com/shm-open/eslint-config-bundle/compare/v1.7.3...v1.7.4) (2021-12-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @delagen/eslint-plugin-deprecation to v1.3.2 ([9980b0a](https://github.com/shm-open/eslint-config-bundle/commit/9980b0a82434c88ecdc156798989a43417c7b1b2))
+* **deps:** update dependency eslint to v8.4.1 ([972a3ec](https://github.com/shm-open/eslint-config-bundle/commit/972a3ecff131a7fe4a86b50e294639fd9a993a7a))
+* **deps:** update typescript-eslint monorepo to v5.6.0 ([cf5dcf5](https://github.com/shm-open/eslint-config-bundle/commit/cf5dcf5134e3ecb0ea947cb1e069d8941d4f3c1e))
+* **deps:** update typescript-eslint monorepo to v5.7.0 ([7201b43](https://github.com/shm-open/eslint-config-bundle/commit/7201b4360b3d9ed105c18036f58962e22358dc33))
+
 ### [1.7.3](https://github.com/shm-open/eslint-config-bundle/compare/v1.7.2...v1.7.3) (2021-12-06)
 
 

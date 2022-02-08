@@ -1,6 +1,6 @@
 # ESLint Config Bundle ![Node.js CI](https://github.com/shm-open/eslint-config-bundle/workflows/Node.js%20CI/badge.svg)
 
-[中文](./README.cn.md)
+[[Chinese version 中文版]](./README.cn.md)
 
 ESLint + config bundle based on [Airbnb's config](https://airbnb.io/javascript/), with [TypeScript](https://www.typescriptlang.org/) and [Prettier](https://prettier.io/) support
 

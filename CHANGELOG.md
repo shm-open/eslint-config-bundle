@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.2](https://github.com/shm-open/eslint-config-bundle/compare/v1.8.1...v1.8.2) (2022-02-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v8.9.0 ([712a422](https://github.com/shm-open/eslint-config-bundle/commit/712a422ee4e125e7d90559903c17646313791d25))
+* **deps:** update typescript-eslint monorepo to v5.11.0 ([ff5dd6d](https://github.com/shm-open/eslint-config-bundle/commit/ff5dd6df8b219d5c5957b62d2e8f6c5f8b45efed))
+
 ### [1.8.1](https://github.com/shm-open/eslint-config-bundle/compare/v1.8.0...v1.8.1) (2022-02-07)
 
 

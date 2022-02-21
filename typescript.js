@@ -46,6 +46,13 @@ module.exports = {
                 format: ['camelCase', 'PascalCase'],
                 leadingUnderscore: 'allow',
             },
+            // - const variable allows UPPER_CASE
+            {
+                selector: 'variable',
+                modifiers: ['const'],
+                format: ['camelCase', 'PascalCase', 'UPPER_CASE'],
+            },
+
             // Type, Interface
             {
                 selector: 'typeLike',

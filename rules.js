@@ -58,5 +58,8 @@ module.exports = {
 
         // ignore use this check for class methods
         'class-methods-use-this': 'off',
+
+        // allow param-reassign for props
+        'no-param-reassign': ['error', { props: false }],
     },
 };

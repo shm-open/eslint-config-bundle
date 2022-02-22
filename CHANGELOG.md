@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/shm-open/eslint-config-bundle/compare/v1.8.3...v1.9.0) (2022-02-22)
+
+
+### Features
+
+* allow UPPER_CASE for const variable ([d6ccc71](https://github.com/shm-open/eslint-config-bundle/commit/d6ccc7198758b187f6bb55a9e2a1dc6cb5aa67c5))
+* revert no-param-reassign to its default, allows props ([c5798b4](https://github.com/shm-open/eslint-config-bundle/commit/c5798b4dbb5669fc5270e0ee385e0500a6e6493e))
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to v5.12.1 ([d209058](https://github.com/shm-open/eslint-config-bundle/commit/d2090585630fd3d60b6374429f59995cbf79ed08))
+
 ### [1.8.3](https://github.com/shm-open/eslint-config-bundle/compare/v1.8.2...v1.8.3) (2022-02-21)
 
 

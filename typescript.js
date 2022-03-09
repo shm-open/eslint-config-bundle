@@ -31,6 +31,25 @@ module.exports = {
                     match: false,
                 },
             },
+            {
+                selector: 'variable',
+                modifiers: ['destructured'],
+                format: null,
+            },
+            {
+                selector: [
+                    'classProperty',
+                    'objectLiteralProperty',
+                    'typeProperty',
+                    'classMethod',
+                    'objectLiteralMethod',
+                    'typeMethod',
+                    'accessor',
+                    'enumMember',
+                ],
+                modifiers: ['requiresQuotes'],
+                format: null,
+            },
             // SomeEnum.ENUM_VALUE
             {
                 selector: 'enum',
@@ -58,13 +77,19 @@ module.exports = {
                 selector: 'typeLike',
                 format: ['PascalCase'],
             },
+
+            // object literal
             {
                 selector: 'objectLiteralProperty',
                 format: ['camelCase', 'snake_case', 'UPPER_CASE'],
+            },
+            {
+                selector: 'objectLiteralProperty',
+                format: null,
                 // __html used in React is a sepcial case
                 filter: {
                     regex: '__html',
-                    match: false,
+                    match: true,
                 },
             },
         ],

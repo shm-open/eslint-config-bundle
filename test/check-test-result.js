@@ -1,4 +1,4 @@
-var expectedErrors = 27;
+var expectedErrors = 29;
 var expectedWarnings = 3;
 
 // read from stdin

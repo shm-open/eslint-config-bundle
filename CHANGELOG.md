@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.3](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.2...v1.9.3) (2022-03-09)
+
+
+### Bug Fixes
+
+* allows object literal property names that requiresQuotes, allows all destructured names ([acc3b13](https://github.com/shm-open/eslint-config-bundle/commit/acc3b13d2104f48a70cccaac5a5f4b310c48c7cc))
+
 ### [1.9.2](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.1...v1.9.2) (2022-03-08)
 
 

@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.4](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.3...v1.9.4) (2022-03-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v8.11.0 ([8a6c8c9](https://github.com/shm-open/eslint-config-bundle/commit/8a6c8c955038faf1b66b2e3c50600710f56c26e3))
+* **deps:** update dependency eslint-plugin-react to v7.29.4 ([2bd7605](https://github.com/shm-open/eslint-config-bundle/commit/2bd7605109f85d66ac4cb50efa9c5ec995089bfc))
+
 ### [1.9.3](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.2...v1.9.3) (2022-03-09)
 
 

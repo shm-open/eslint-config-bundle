@@ -25,11 +25,6 @@ module.exports = {
                 selector: 'default',
                 format: ['camelCase', 'PascalCase', 'UPPER_CASE', 'snake_case'],
                 leadingUnderscore: 'allowSingleOrDouble',
-                custom: {
-                    // Id should be ID or id
-                    regex: 'Id([A-Z0-9]|\\b)',
-                    match: false,
-                },
             },
             {
                 selector: 'variable',

@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.6](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.5...v1.9.6) (2022-03-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v8.12.0 ([03242d7](https://github.com/shm-open/eslint-config-bundle/commit/03242d7b528909f0e20793a88fbde4cec27d26b2))
+* **deps:** update dependency eslint-import-resolver-typescript to v2.7.0 ([a7438de](https://github.com/shm-open/eslint-config-bundle/commit/a7438de8f32568e692aaabc47ba3f462010a12e3))
+* **deps:** update dependency prettier to v2.6.1 ([abc8887](https://github.com/shm-open/eslint-config-bundle/commit/abc8887167b4afeee149e0745e521a2b2a29a8ba))
+* remove the naming convention check for Id ([79f569e](https://github.com/shm-open/eslint-config-bundle/commit/79f569eeb0f9e00dc160b506df9b85298e7b5144))
+
 ### [1.9.5](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.4...v1.9.5) (2022-03-22)
 
 

@@ -14,8 +14,9 @@ const objLiterals = {
     '123': 123,
     'abc.123': 'abc.123',
     __html: 'html',
-    // @typescript-eslint/naming-convention
     Yes: 'yes',
+    // @typescript-eslint/naming-convention
+    _someInvalid: '_someInvalid',
 };
 
 // @typescript-eslint/no-unused-vars

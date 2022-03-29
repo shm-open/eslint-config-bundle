@@ -76,7 +76,7 @@ module.exports = {
             // object literal
             {
                 selector: 'objectLiteralProperty',
-                format: ['camelCase', 'snake_case', 'UPPER_CASE'],
+                format: ['camelCase', 'PascalCase', 'snake_case', 'UPPER_CASE'],
             },
             {
                 selector: 'objectLiteralProperty',

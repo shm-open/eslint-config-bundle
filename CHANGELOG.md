@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.7](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.6...v1.9.7) (2022-03-29)
+
+
+### Bug Fixes
+
+* allow PascalCase being used as object literal key ([976ccaa](https://github.com/shm-open/eslint-config-bundle/commit/976ccaa2f5a8f26a5b0b94415b0d0d9fad761566))
+* **deps:** update typescript-eslint monorepo to v5.17.0 ([08251e2](https://github.com/shm-open/eslint-config-bundle/commit/08251e29b5865b448ae5f2f81b9089e536b677d2))
+
 ### [1.9.6](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.5...v1.9.6) (2022-03-28)
 
 

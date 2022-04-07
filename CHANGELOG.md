@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.8](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.7...v1.9.8) (2022-04-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-import-resolver-typescript to v2.7.1 ([b0431fa](https://github.com/shm-open/eslint-config-bundle/commit/b0431fa2ad38113607b291dc6edb06540f7178f6))
+* **deps:** update dependency eslint-plugin-import to v2.26.0 ([3c53d50](https://github.com/shm-open/eslint-config-bundle/commit/3c53d505fc884eeeab9effe333d445dfa04ee7f1))
+* **deps:** update dependency eslint-plugin-react-hooks to v4.4.0 ([ba0e3ef](https://github.com/shm-open/eslint-config-bundle/commit/ba0e3ef6aa49a50af8f5f73a4dad015a66816e01))
+* **deps:** update dependency prettier to v2.6.2 ([47452eb](https://github.com/shm-open/eslint-config-bundle/commit/47452eb3daed612d7d0f8abb4f153a88d59188f3))
+* **deps:** update typescript-eslint monorepo to v5.18.0 ([fbd10cb](https://github.com/shm-open/eslint-config-bundle/commit/fbd10cb06dbaeb634c49fb3cffabdfda4a4e52b8))
+
 ### [1.9.7](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.6...v1.9.7) (2022-03-29)
 
 

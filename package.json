@@ -1,6 +1,6 @@
 {
   "name": "@shm-open/eslint-config-bundle",
-  "version": "1.9.9",
+  "version": "1.9.10",
   "description": "",
   "main": "base.js",
   "files": [

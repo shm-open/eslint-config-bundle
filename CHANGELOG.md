@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.13](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.12...v1.9.13) (2022-07-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v8.16.0 ([d8c320c](https://github.com/shm-open/eslint-config-bundle/commit/d8c320c85ad431ad90da9d1729095c457557d181))
+* **deps:** update dependency eslint to v8.17.0 ([5984a7a](https://github.com/shm-open/eslint-config-bundle/commit/5984a7a1e8fe4b15e7c291004615ff3ccda7f6f0))
+* **deps:** update dependency eslint to v8.18.0 ([8d459dc](https://github.com/shm-open/eslint-config-bundle/commit/8d459dc724e710a6eaae128b8d662c9319ef6101))
+* **deps:** update dependency eslint to v8.19.0 ([161a00b](https://github.com/shm-open/eslint-config-bundle/commit/161a00b3b849213e33eba8d3b795c0f866d854d7))
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.6.0 ([dbd4fe2](https://github.com/shm-open/eslint-config-bundle/commit/dbd4fe2276a38b243c0103b36c3f3a0a46228f12))
+* **deps:** update dependency eslint-plugin-prettier to v4.1.0 ([4a9ffea](https://github.com/shm-open/eslint-config-bundle/commit/4a9ffeac0e8ec678f8dd7544e84c8f5fa5284ebe))
+* **deps:** update dependency eslint-plugin-prettier to v4.2.1 ([bf8d57f](https://github.com/shm-open/eslint-config-bundle/commit/bf8d57fb5c4f94a55599a88da5a90774581cb556))
+* **deps:** update dependency eslint-plugin-react to v7.30.0 ([4ef51f6](https://github.com/shm-open/eslint-config-bundle/commit/4ef51f66ad7c9a93a00e4fd66dfbf425404e7fc2))
+* **deps:** update dependency eslint-plugin-react to v7.30.1 ([8b4a792](https://github.com/shm-open/eslint-config-bundle/commit/8b4a792f6452567413ce2955b0e0356db4495455))
+* **deps:** update dependency prettier to v2.7.0 ([1a686ae](https://github.com/shm-open/eslint-config-bundle/commit/1a686ae345c6e98c7f276457d6549a4d988bbbdc))
+* **deps:** update dependency prettier to v2.7.1 ([e65e548](https://github.com/shm-open/eslint-config-bundle/commit/e65e548cfdb5375f97d514117f34c1b1a712f50f))
+* **deps:** update react monorepo ([9afbd72](https://github.com/shm-open/eslint-config-bundle/commit/9afbd724a6bdae36cfb1d943cdcf027e3ba904f0))
+* **deps:** update typescript-eslint monorepo to v5.26.0 ([4553931](https://github.com/shm-open/eslint-config-bundle/commit/45539311e7376467819d66580295d7c317e06086))
+* **deps:** update typescript-eslint monorepo to v5.27.0 ([2059c61](https://github.com/shm-open/eslint-config-bundle/commit/2059c61e1b7f739ace04c04a1602ba9cf75262da))
+* **deps:** update typescript-eslint monorepo to v5.27.1 ([884f8b7](https://github.com/shm-open/eslint-config-bundle/commit/884f8b76ced78cce0a0e0b9334a674d1aa5a9ee4))
+* **deps:** update typescript-eslint monorepo to v5.28.0 ([e20e3f3](https://github.com/shm-open/eslint-config-bundle/commit/e20e3f3cdb15c9a2c3769d449d86aace8c7c29ca))
+* **deps:** update typescript-eslint monorepo to v5.29.0 ([6b5fd01](https://github.com/shm-open/eslint-config-bundle/commit/6b5fd01d0f74d0739ea21a31d2af908015d219b2))
+* **deps:** update typescript-eslint monorepo to v5.30.0 ([21f9c4f](https://github.com/shm-open/eslint-config-bundle/commit/21f9c4f747a74f435ca98f7d3d460972195b1651))
+* **deps:** update typescript-eslint monorepo to v5.30.3 ([887cfa5](https://github.com/shm-open/eslint-config-bundle/commit/887cfa5acab07b604e53d7c9663ec588c0a69ca8))
+* **deps:** update typescript-eslint monorepo to v5.30.4 ([b0cfceb](https://github.com/shm-open/eslint-config-bundle/commit/b0cfceb44aef91f36fd449fbce26b7c6974b6e26))
+* **deps:** update typescript-eslint monorepo to v5.30.5 ([2b1c15d](https://github.com/shm-open/eslint-config-bundle/commit/2b1c15da3a0e7bcddda9f9e02843a13409d88b48))
+* **deps:** update typescript-eslint monorepo to v5.30.6 ([da43347](https://github.com/shm-open/eslint-config-bundle/commit/da4334750ecb5708e21dbafe67ff8bbd12c22a1c))
+
 ### [1.9.12](https://github.com/shm-open/eslint-config-bundle/compare/v1.9.11...v1.9.12) (2022-05-18)
 
 

@@ -28,7 +28,7 @@
   "devDependencies": {
     "@types/react": "17.0.50",
     "react": "18.2.0",
-    "react-native": "0.70.0",
+    "react-native": "0.70.1",
     "standard-version": "9.5.0",
     "typescript": "4.8.3"
   },

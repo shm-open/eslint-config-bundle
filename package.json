@@ -26,7 +26,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "17.0.53",
+    "@types/react": "18.0.28",
     "react": "18.2.0",
     "react-native": "0.71.2",
     "standard-version": "9.5.0",
